@@ -1,0 +1,695 @@
+/*homepage*/
+*{
+	color: white;
+}
+
+p{
+	text-align: center;
+}
+
+.a{
+	text-decoration: none;
+	font-size: 23px; 
+	color: black; 
+	text-align: center; 
+	float: left;
+	display: block;
+	font-family: Calibri;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	padding: 15px 20px;
+	margin-top: 9px;
+	margin-bottom: -2px;
+}
+.a:hover{
+	color: #094375;
+	border: 2px solid lightgrey;
+	background-color: lightgrey;
+	border-radius: 10px;
+	padding:0.8rem;
+	padding-right: 1rem;
+	padding-left: 1rem;
+	font-size: 23px;
+}
+
+.c{
+	z-index: 1030;
+	float: center;
+	overflow: hidden;
+	padding: 0.5rem;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	display: block;
+	list-style: none;
+	background-color: #e6e6e6;
+	background-size: 100%;
+	margin-top: -19px;
+}
+
+#d{
+	opacity: 90%;
+	margin-top: 30px;
+	width: 250px;
+	height: 170px;
+}
+
+.e{
+	text-transform: capitalize;
+	font-size: 35px;
+	font-family: Monaco;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+#f{
+	font-family: Archivo Black;
+	text-align: center;
+	font-size: 55px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 5px 10px 2px #525252;
+}
+
+#g{
+	font-size: 20px;
+	font-family: Arial;
+	text-align: center;
+	text-decoration: underline;
+	word-spacing: 2px;
+	line-height: 1.5;
+	margin-left: 120px;
+	margin-right: 120px;
+}
+
+.h{
+	background-color: #575757;
+}
+
+.i{
+	float: left;
+	width: 40%;
+	text-align: center;
+	margin-left: 90px;
+}
+
+.j{
+	width: auto;
+	height: 390px;
+}
+
+.k{
+	float: left;
+	width: 23%;
+	text-align: center;
+	background-color: #1e6644;
+	text-indent: 60px;
+}
+
+.l{
+	height: 100px;
+	width: auto;
+}
+
+.m{
+	font-size: 23px;
+	font-family: Barlow Condensed;
+	letter-spacing: 2px;
+	font-weight: bold;
+	vertical-align: top;
+	padding-bottom: 8px;
+}
+
+#n{
+	text-align: center;
+	font-size: 30px;
+	font-family: Comic Sans MS;
+	background-image: url('https://iphone7wallpapers.co/media/uploads/2017/08/Starry-Night-Sky-Star-Galaxy-Space-White-Black-640x960.jpg');
+	background-attachment: fixed;
+	margin-left:80px;
+	margin-right: 103px;
+	padding-top: 100px;
+	text-transform: capitalize;
+	background-position: top;
+}
+
+.o{
+	float: left;
+	width: 33%;
+	text-align: center;
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 25px;
+	font-family: Rockwell;
+}
+
+.p{
+	height: 230px;
+	width: auto;
+}
+
+#q{
+	font-family: Archivo Black;
+	text-align: center;
+	font-size: 55px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 5px 10px 2px #525252;
+	margin-bottom: 30px;
+}
+
+.r{
+	display: block;
+	width: 20%;
+	padding: 20px;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #212529;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: 20px;
+	transition: none;
+}
+
+.s{
+	font-family: Arial Black; 
+
+}
+
+#t{
+	display: block;
+	width: 20%;
+	padding: 20px;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: white;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid #63b899;
+	border-radius: 20px;
+	transition: none;
+	background-color: #63b899;
+}
+
+#u{
+	color: #575757;
+	text-align: center;
+}
+
+/* garden */
+
+#aa{
+	font-size: 25px;
+	color: #919191;
+	font-family: ABeeZee;
+	text-align: left;
+}
+
+#bb{
+	font-size: 16px;
+	font-family: Copperplate;
+	text-decoration: none;
+	border: 1px solid #7d4300;
+	background-color: #7d4300;
+	letter-spacing: 1.5px;
+	padding: 20px;
+	border-radius: 20px;
+	float: center;
+	border-right: outset 3px grey;
+	border-bottom: outset 3px grey;
+}
+
+.cc{
+	text-align: center;
+	font-size: 40px;
+	font-family: Rockwell;
+	text-decoration: none;
+	text-transform: capitalize;
+}
+
+.dd{
+	height: 0.2rem;
+	width: 3.25rem;
+	margin-top: -20px;
+	background-color: #95d417;
+	opacity: 1;
+	background-color: #95d417;
+}
+
+.ee{
+	float: left;
+	width: 12%;
+	text-align: center;
+	font-family: Monaco;
+	position: relative;
+	height: 130px;
+}
+
+.ff{
+	height: 100px;
+	width: auto;
+	display: block;
+	margin-left: 20px;
+}
+
+#gg{
+	padding: 25px;
+	text-align: center;
+	float: center;
+	border: solid 1px #95d417;
+	text-transform: capitalize;
+	background-color: #95d417;
+	color: #1d1f1e;
+	border-radius: 20px;
+	text-decoration: none;
+	border-right: solid 3px #d3dbd4;
+	border-bottom: solid 3px #d3dbd4;
+	font-family: Rockwell;
+}
+
+.hh{
+	color: #d6decc;
+	font-size: 16px;
+	font-family: Georgia;
+}
+
+.ii{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0;
+	transition: .4s ease;
+	background-color: #889133;
+	position: absolute;
+	text-align: center;
+}
+
+.ee:hover .ii{
+	opacity: 1;
+}
+
+.jj{
+	color: #f2f2f2;
+	font-size: 12px;
+	padding: -8px 20px;
+	position: absolute;
+	top: 0;
+}
+
+#Jump{
+	color: black;
+	font-family: Archivo Black;
+	text-align: center;
+	font-size: 55px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 5px 10px 5px #8c8c8c;	
+}
+
+.kk{
+	position: relative;
+}
+
+.ll{
+	float: left;
+	width: 33%;
+	text-align: center;
+}
+
+.mm{
+	height: 330px;
+	width: auto;
+}
+
+.nn{
+	text-decoration: none;
+}
+
+.oo{
+	height: 200px;
+	width: auto;
+	outline: 3px outset grey;
+}
+
+.pp{
+	height: 310px;
+	width: auto;
+	display: block;
+	margin-left: 20px;
+}
+
+.qq{
+	width: 33%;
+	float: left;
+	text-align: center;
+	font-family: Monaco;
+	position: relative;
+	height: 310px;
+}
+
+.qq:hover{
+	background-color: grey;
+	opacity: 0.8;
+}
+
+#over{
+	color: #e6ebe9;
+	font-family: Marker Felt;
+	padding: 40px;
+	font-size: 18px;
+	margin-bottom: -10px;
+}
+
+/*Tim*/
+
+.paragraph1{
+	font-size: 200%;
+	color: rgb(212, 158, 42);
+	width: 50%;
+	background-color: rgb(111, 50, 21);
+	text-shadow: 5px 5px 0px black;
+	border-radius: 5px;
+	border: 5px solid rgb(160, 70, 30);
+	letter-spacing: 3px;
+}
+
+.paragraph3{
+	font-size: 200%;
+	color: rgb(211, 157, 41);
+	width: 50%;
+	background-color: rgb(110, 50, 21);
+	text-shadow: 5px 5px 0px black;
+	border-radius: 5px;
+	border: 5px solid rgb(199, 93, 38);
+	letter-spacing: 3px;
+}
+
+.paragraph4{
+	font-size: 200%;
+	color: rgb(0, 195, 0);
+	width: 50%;
+	background-color: rgb(96, 96, 130);
+	text-shadow: 5px 5px 0px black;
+	border-radius: 5px;
+	border: 5px solid rgb(158, 163, 216);
+	letter-spacing: 3px;
+}
+
+.paragraph2{
+	font-size: 120%;
+	text-align: center;
+	width: 60%;
+	color: whitesmoke;
+}
+
+.picture2{
+	width: 45%;
+	background-color: rgb(255, 212, 157);
+	border-radius: 30px;
+	border: 3px solid rgb(210, 160, 110);
+}
+
+.picture3{
+	width: 45%;
+	background-color: rgb(185, 173, 216);
+	border-radius: 30px;
+	border: 3px solid rgb(33, 36, 31);
+}
+
+.buttom{
+	color: #e6ebe9;
+	font-family: Marker Felt;
+	padding: 40px;
+	font-size: 18px;
+	margin-bottom: -10px;
+}
+
+.board{
+	width: 15%;
+	background-color: rgb(255, 197, 0);
+	position: fixed;
+	opacity: 30%;
+}
+
+.board:hover{
+	opacity: 100%;
+}
+
+
+/*Sophia*/
+#a1{
+  margin-top: 15px;
+ width: 100%;
+ border-radius: 60px;
+ opacity: 80%;
+ box-shadow: 0 110px 100px -90px black inset;
+ }
+
+.a2,.a30{
+  font-family: 'Raleway', sans-serif;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  border: 8px white;
+  border-style:inset;
+  }
+
+
+
+
+
+.a3{border-radius: 20px;
+ width:10%;
+ margin-right: 100px;
+ margin-left: 440px; 
+}
+.a3:hover
+{ opacity: 0.8;
+
+ }
+#a8{
+  background-position: top;
+ border-radius: 60px;
+ background-attachment: fixed;
+ box-shadow: 0 110px 100px -90px black inset;
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+
+#a4,#a5,#a6,#a7,#a11{
+ border-radius: 10px;
+
+}
+#a4:hover,#a5:hover,#a6:hover,#a7:hover,#a11:hover{
+ opacity: 60%;
+}
+#a4,#a5{
+	float: left;
+	width: 33%;
+}
+
+
+
+.bg-img {
+
+
+  min-height: 380px;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.container {
+  position: absolute;
+  right: 0;
+  margin-top: 100px;
+  margin-right: 40px;
+  max-width: 300px;
+  padding: 16px;
+  background-color: white;
+}
+
+
+
+
+.btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+
+.a11 {
+	float: left;
+  position: relative;
+  width: 33%;
+  max-width: 800px;
+
+}
+
+
+
+.a11 .a12 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.a11 .a12:hover {
+  background-color: black;
+}
+.a10{border-radius: 10px;
+	border: white;
+	background-color: white;
+}
+.a15,.a13{
+	 color: white;
+ font-family: 'Raleway', sans-serif;
+  text-align: left;
+   border: 6px white;
+  border-style:inset;
+}
+
+.a15 {
+  border-collapse: collapse;
+  width: 95%;
+  margin-left: 32px;
+
+
+  
+}
+.a16{
+	background-color: green;
+	text-align: center;
+	
+}
+
+.a16:hover{
+	background-color: grey;
+}
+
+#a14,#a22,#a23,#a24,#a25{
+border-radius: 10px;
+	width: 300px;}
+
+
+.a19,.a20{
+	width: 100px;
+	border-radius: 10px;
+	margin: 1px;
+}
+
+
+#jump{border-radius: 40px;
+	border: white solid;
+float: right;
+}
+#jump:hover
+{background-color:lightgrey;
+color:black;
+}
+
+.a27 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    float: center;
+    margin-left: 100px;
+}
+
+.a26 {
+    position: relative;
+    display: inline-block;
+    margin-left: 50px;
+    margin-top: 50px;
+
+
+}
+
+.a26-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    margin-top: -180px;
+    margin-left: 100px;
+}
+
+
+
+.a26:hover .a26-content {
+    display: block;
+}
+
+.a26:hover .a27{
+    background-color: #3e8e41;
+}
+
+.a28:hover {
+  background-color: black;
+}
+
+
+.a31{
+	border-radius: 10px;
+	width: auto;
+	height: 120px;
+	margin-top: 10px;
+}
+
+
+.a33{
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  text-align: left;
+  border: 5px inset #cfcfcf;
+  border-collapse: collapse;
+  background-color: #8f8f8f;
+  width: 18%;
+  float: left;
+}
+
+.a35{
+	margin-bottom: 10px;
+	color: black;
+}
+
+.a32{
+  margin-bottom: -15px;
+
+
